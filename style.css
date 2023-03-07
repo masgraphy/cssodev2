@@ -1,0 +1,166 @@
+/* index */
+
+
+#src{
+    width: 1500px;
+    margin: auto;
+    margin-bottom: 5px;
+    background-color: #EEEEEE;
+    
+}
+
+#lo {
+    width: 1500px;
+    margin: auto;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+
+#search {
+    
+    display: table;
+    margin: auto;
+   
+  
+    
+
+}
+
+#btn {
+    float: left;
+    display: table;
+    margin-left: 640px;
+    
+   
+   
+}
+
+#btn2 {
+    
+    display: table;
+    
+    
+}
+
+
+#src-p {
+    display: table;
+    margin: auto;
+}
+
+#footer-p {
+    margin: auto;
+}
+
+#footer1 {
+    float: left;
+    width: 570px;
+    height: 76px;
+    background-color: #7EE5DA;
+    text-align: center;
+    padding: 10px;
+    margin-left: 200px;
+    
+    
+}
+
+#footer2 {
+    
+    width: 300px;
+    height: 76px;
+    margin: auto;
+    background-color: #70CCC2;
+    text-align: center;
+    padding: 10px;
+   
+}
+
+#footer3 {
+    float: right;
+    width: 570px;
+    height: 76px;
+    background-color: #62B3AA;
+    text-align: center;
+    padding: 10px;
+    margin-right: 200px;
+    margin-top: -96px;
+    
+    
+    
+}
+
+#copy {
+    
+    text-align: center;
+    font-size: 12px;
+}
+
+/* help sayfası */
+
+#help {
+    float: right;
+    margin-right: 700px;
+    margin-top: -100px;
+    color: red;
+}
+
+#help-url {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+#red {
+    color: red;
+}
+
+/* company sayfası */
+
+#company-p {
+    font-size: 20px;
+}
+
+#table-div {
+    width: 900px;
+    margin: auto;
+   
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* stickers sayfası */
+
+#stickers {
+    float: right;
+    margin-right: 450px;
+    margin-top: -100px;
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.container {
+    width: 1500px;
+    margin: auto;
+}
+
+#logo-table {
+    margin: auto;
+}
